@@ -2,7 +2,7 @@
 
 **Course:** EPAM Generative AI  
 **Author:** Kamila Orynbekova  
-**Date:** November 2026
+**Date:** 05 November 2026
 
 ## 1. Introduction
 
